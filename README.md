@@ -109,6 +109,6 @@ If you find this work useful, please consider citing it:
   title        = {SVG-MPPI for F1TENTH},
   author       = {Team 4},
   year         = {2025},
-  url          = {[https://github.com/navjotschahal/variational_guided_mppi_f1tenth/]}
+  url          = {https://github.com/navjotschahal/variational_guided_mppi_f1tenth/}
 }
 ```
